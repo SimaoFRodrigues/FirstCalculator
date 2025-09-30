@@ -17,9 +17,3 @@ Este é um projeto simples de calculadora desenvolvido em Python utilizando a bi
 - **Flet**: Biblioteca Python para criação de interfaces gráficas e aplicações interativas.
 - **Git**: Controle de versão e gerenciamento do repositório.
 
-## Como Executar o Projeto
-
-1. **Clone o repositório**:📌
-
-   ```bash
-   git clone https://github.com/SimaoFRodrigues/FirstCalculator.git
